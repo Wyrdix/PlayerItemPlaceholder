@@ -1,0 +1,8 @@
+name: PlayerItemPlaceholder
+version: '${version}'
+main: com.github.wyrdix.playeritemplaceholder.PlayerItemPlaceholder
+api-version: 1.16
+depend: [ ProtocolLib, PlaceholderAPI ]
+authors: [ Wyrdix ]
+description: Utility plugin used to let placeholders on item to see whoever is looking at the item
+website: github.com/Wyrdix
